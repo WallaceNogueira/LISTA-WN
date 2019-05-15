@@ -3,27 +3,22 @@ WALLACE LISTA
 
 #EXTM3U
 
-#PLAYLISTV: pltv-logo="http://s28.postimg.org/66yw0liml/21312sasdas.png"
+#PLAYLISTV: WLTV-logo="WL"
 
 ################################################################################# Canais
 
-#EXTINF:-1 group-title= BigBrotherBrasil 2018
-https://live2.userapi.com/639915/live/-4rLysFFet0/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDE4IDU6MDI6MDMgQU0maGFzaF92YWx1ZT1BL3d5aGNrT1VXcW1ISFdjWGphRkJnPT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1,BigBrotherBrasil 2018 [Alter]
-http://painel.iptvmove.com:25461/live/isaque24/lucila25/3128.ts
 #EXTINF:-1,A&E
 http://painel.iptvmove.com:25461/live/isaque24/lucila25/1354.ts
 #EXTINF:-1,ALL Sports HD
 http://painel.iptvmove.com:25461/live/isaque24/lucila25/1215.ts
 #EXTINF:-1,AMC
-http://painel.iptvmove.com:25461/live/isaque24/lucila25/2326.ts
+
 #EXTINF:-1,AMC HD
-http://painel.iptvmove.com:25461/live/isaque24/lucila25/2264.ts
+
 #EXTINF:-1,Animal Planet
-http://painel.iptvmove.com:25461/live/isaque24/lucila25/1353.ts
+https://assistirtvonline.xyz:25463/live/Quarta/CopaDoBrasil/101.m3u8
 #EXTINF:-1,Animal Planet HD
-http://painel.iptvmove.com:25461/live/isaque24/lucila25/1419.ts
+
 #EXTINF:-1,Anime TV
 http://painel.iptvmove.com:25461/live/isaque24/lucila25/1124.ts
 #EXTINF:-1,Aparecida
@@ -89,9 +84,9 @@ http://painel.iptvmove.com:25461/live/isaque24/lucila25/1338.ts
 #EXTINF:-1,Cinemax HD
 http://painel.iptvmove.com:25461/live/isaque24/lucila25/2256.ts
 #EXTINF:-1,Combate
-http://painel.iptvmove.com:25461/live/isaque24/lucila25/1337.ts
+https://tvweb.xyz:25463/live/Quarta/CopaDoBrasil/77.m3u8?token=QxBcWRdYGgoRVgJQVQEJXwNdUFpVUAZSClQKCwpdBAJeBwAOUFYMBwdDHxcXREpcVghtUVcUXlQPHhpGS1xHaFFWFgJGAxocERVaWAESAgkbR0JRVxReQQkLDgINGxkVXUpAXRZeWVxsBVZDDVNdGw0LR1RfGkYMVm1cVlVYW1MaCBYJRhwaWUAREQ9GZxhrFwFXGHFTCEN9XExBXU1QRVFfUVYQX0sQYD0cZkR8TF1WRx4aUV8QEVlGXRECGwQCDQAWFEZTV0VdFUFMRgoae2VHHhpWThAGVkFRXFYbDxVVAUEARhwaWUA+QVAXREpcVghXShEMRlMaHhpeWUFqVFdcWl0HRFFfXRIRD0YAGhUVCF1WWkILEWdCUVcaAxcGAQIGCEZN
 #EXTINF:-1,Combate HD
-http://painel.iptvmove.com:25461/live/isaque24/lucila25/1413.ts
+http://fun.kastream.biz:8081/edge/ver3ef4339b47b58ddbb6a8c961f7e28d8c/chunks.m3u8?nimblesessionid=236682&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE5IDQ6NDg6MzMgUE0maGFzaF92YWx1ZT1HMW4zNTBZQWNDUkVWcE9XcUkyczBBPT0mdmFsaWRtaW51dGVzPTEyMA==
 #EXTINF:-1,Combate HD [Alter]
 http://painel.iptvmove.com:25461/live/isaque24/lucila25/3125.ts
 #EXTINF:-1,Comedy Central
@@ -1856,6 +1851,9 @@ http://caikrondatacenter.com.br:1935/santuario_aparecida/canal5.stream/playlist.
 
 ################################################################################# Religiosos
 
+#EXTINF:-1 tvg-id="TV Evangelizar" tvg-logo="http://i.imgur.com/r22w1v6.png" group-title="Religiosos",TV Evangelizar
+http://flash32k.crossdigital.com.br:1935/evangelizar/tv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
 #EXTINF:-1 tvg-id="Tvfeliz.br" tvg-logo="http://i.imgur.com/5IC5kuO.png" group-title="Religiosos",TV Feliz
 https://59f2354c05961.streamlock.net:1443/tvfelizrn/_definst_/tvfelizrn/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
@@ -2209,15 +2207,24 @@ http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801261189b415d108f96
 
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="Esportes",Combate
 
-#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://i.imgur.com/knx9dj1.png" group-title="Esportes",SporTV
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="http://i.imgur.com/knx9dj1.png" group-title="Esportes",SporTV
+http://placartv.futeboltv.com:8081/live/5/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://i.imgur.com/qpwwQCz.png" group-title="Esportes",SporTV 2
+http://xxultraxx.com/live/uu123456/uu123456/27902.m3u8
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://i.imgur.com/qpwwQCz.png" group-title="Esportes",SporTV 2 Op2
+https://aovivonatv.xyz:25463/live/Quarta/CopaDoBrasil/26.m3u8?token=QxBcWRdYGgoRWAsAAQcBDAJXBF1RUAZXCFFbAVpcUAQOAAcJBgYOBANDHxcXREpcVghtUVcUXlEOHhpGS1xHaFFWFgJGAxocERVaWAESAgkbR0JRVxReQQoEDQEaFRdSQEZRSgpRVG9XBEVcB1UaA1kQXlQfFAsNZ1ZdXllXURUCEAUaSBJRQ0NDCRczEGoZUwASelZaRCZWRkpWTFxHXlVXWkwLQxhjb05gFShEXFgVSRBaWkIWAkxXGgkaCAACARAYGgdfTV5HE0oXXhJ6axVJEF1LQgENS1tXXRoDF1oLRwwaSBJRQ2wTVkYQQl1YWgBAGgkUVEEUEFVSQGZWWFZcUVsQWVdeQEMJF1QSFBtaClxRR1kWPEhbXBECGwQEAQoEGhk=
 
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://i.imgur.com/8ds9Wv0.png" group-title="Esportes",SporTV 3
 
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Esportes",Fox Sports
+#EXTINF:-1 tvg-id="FoxSports" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Esportes",Fox Sports
+http://placartv.futeboltv.com:8081/live/4/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="Esportes",Fox Sports 2
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="Esportes",Fox Sports 2
+http://placartv.futeboltv.com:8081/live/3/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="ALL SPORTS" tvg-logo="http://i.imgur.com/HozFynS.png" group-title="Esportes",All Sports BR
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/GzE7xtR.png" group-title="Esportes",Sport.TV+
 
@@ -2236,15 +2243,50 @@ http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/5jMqNpW.png" group-title="Esportes",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?PEDROJUNIORTUTORIAIS
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/owtTurC.png" group-title="Esportes",Horse Brasil HD
 http://490636978.r.worldcdn.net/490636978/_definst_//horsebrasil1/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/HozFynS.png" group-title="Esportes",All Sports BR
+#EXTINF:-1 tvg-id="ALL SPORTS" tvg-logo="http://i.imgur.com/HozFynS.png" group-title="Esportes",All Sports BR
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/5jMqNpW.png" group-title="Esportes",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?PEDROJUNIORTUTORIAIS
+
 
 ################################################################################# Infantil
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/PY0n9bX.jpg" group-title="Infantil",Gospel Cartoon
+http://stmv1.srvstm.com:1935/gospelcartoon/gospelcartoon/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Zoomoo" tvg-logo="http://i.imgur.com/WCFVJCx.png" group-title="Infantil",Zoomoo
+
+#EXTINF:-1 tvg-id="Gloobinho" tvg-logo="http://i.imgur.com/oOdSv91.png" group-title="Infantil",Gloobinho
+
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-logo="http://i.imgur.com/wlQ5V8Z.png" group-title="Infantil",Nat Geo Kids
+
+#EXTINF:-1 tvg-id="BabyTV" tvg-logo="http://i.imgur.com/N1yI2xN.png" group-title="Infantil",Baby TV
+
+#EXTINF:-1 tvg-id="TV RA TIM BUM" tvg-logo="http://i.imgur.com/0HQ20e3.png" group-title="Infantil",TV RÃ¡-Tim-Bum
+
+#EXTINF:-1 tvg-id="Boomerang" tvg-logo="http://i.imgur.com/syou7kI.png" group-title="Infantil",Boomerang
+
+#EXTINF:-1 tvg-id="Tooncast" tvg-logo="http://i.imgur.com/ggVGWjw.png" group-title="Infantil",Tooncast
+
+#EXTINF:-1 tvg-id="Nick" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nickelodeon
+
+#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr.
+
+#EXTINF:-1 tvg-id="Gloob" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Infantil",Gloob
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Infantil",Cartoon Network
+
+#EXTINF:-1 tvg-id="Disney XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Infantil",Disney XD
+
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://i.imgur.com/DpgSKt0.png" group-title="Infantil",Discovery Kids
+
+#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="http://i.imgur.com/H9AY5z4.png" group-title="Infantil",Disney Junior
+
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="Infantil",Disney Channel
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/y3fRewV.png" group-title="Infantil",Retrô Cartoon
 http://stmv2.srvstm.com:1935/cartoonr/cartoonr/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
@@ -2274,11 +2316,16 @@ http://stmv2.srvstm.com:1935/cartoonr/cartoonr/playlist.m3u8?PEDROJUNIORTUTORIAI
 
 ################################################################################# Filmes e Series
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://s16.postimg.org/z4yd0upsl/cine_sky.png" group-title="Filmes e Séries",Cine Sky
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/VDmvAb5.png" group-title="Filmes e SÃ©ries",Cine Sky
 http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ClaFSFI.png" group-title="Filmes e SÃ©ries",Cine+
+https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL3.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/EdTZ0ba.png" group-title="Filmes e SÃ©ries",Classique TV
+http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://s16.postimg.org/62wznzh4l/clarocine.png" group-title="Filmes e Séries",Cine Claro
-http://inalamega.com.br:1935/tvcariocanet/tvcariocanet/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="Hbo.br" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Filmes e Séries",HBO
 
@@ -2439,16 +2486,20 @@ http://cmghlslive-i.akamaihd.net:80/hls/live/224711/WFTV/904k/prog.m3u8?PEDROJUN
 #EXTINF:-1 tvg-id="E.br" tvg-logo="http://i.imgur.com/Vkg12Kw.png" group-title="Documentários",E!
 
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-logo="http://i.imgur.com/eY508Ps.png" group-title="Documentários",Animal Planet
+https://assistirtvonline.xyz:25463/live/Quarta/CopaDoBrasil/101.m3u8
 
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-logo="http://i.imgur.com/caeyoP1.png" group-title="Documentários",National Geographic
+https://assistirtvonline.xyz:25463/live/Quarta/CopaDoBrasil/112.m3u8
 
 #EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="Documentários",Nat Geo Wild
 
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Documentários",History
+https://assistirtvonline.xyz:25463/live/Quarta/CopaDoBrasil/102.m3u8
 
 #EXTINF:-1 tvg-id="H2.br" tvg-logo="http://i.imgur.com/jhiD9Wc.png" group-title="Documentários",H2
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-logo="http://i.imgur.com/sIN7H8e.png" group-title="Documentários",Discovery Channel
+https://assistirtvonline.xyz:25463/live/Quarta/CopaDoBrasil/104.m3u8
 
 #EXTINF:-1 tvg-id="Discturbohd.br" tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="Documentários",Discovery Turbo
 
@@ -18382,6 +18433,11 @@ http://media-br-am.crackle.com/1/3/v6/01zlf_480p.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/tSfnjXQ.png" group-title="Adulto",Jasmin.TV
 
 ################################################################################## Filmes Adultos
+#EXTINF:-1 tvg-logo=" " group-title="Filmes Adultos",Marcia Imperator-Casamento
+https://hls4-l3.xvideos-cdn.com/12ef1b9169255e6e02aa3b4ecc55a106dff6e26e-1557954293/videos/hls/8e/97/90/8e979045f0868997585d63196f4c1936/hls-360p.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Filmes Adultos",Marcia Imperator-Fazenda
+https://vid-egc.xvideos-cdn.com/videos/hls/59/4a/ac/594aacd04ade7c989021b9ef612600a6/hls-360p.m3u8?dMHgcMDAOW481WzdcM9zFDo8VCgqwAqRl5zjtNlr_iYLKc0Ju1uQvsKPzaIgsAmg5M3RRrYvk8p2z_-AbRmXQwZnM0tVYY-wXA6aZRdxkJmpSj0RR32yWzqITtlJuyKDOwjY664crFiZ2xVby_ACCakywg
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pyjJfsM.jpg" group-title="Filmes Adultos",As Panteras - Incesto 7
 http://gzmbu8bjh3.singularcdn.net.br/get_file/1/fe900c9da9b70b45716793b2ec6d496c00bec5df75/22000/22160/22160_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
