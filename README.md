@@ -1,12 +1,13 @@
 # LISTA-WN
 WALLACE LISTA
 
-#EXTM3U
-
-################################################################################# INFORMAÇÃO
+# INFORMAÇÃO
 
 #EXTINF:-1,OLÁ. INFORMO A TODOS QUE OS CANAIS ESTÃO SENDO AUALIZADOS E QUALQUER PROBLEMA OU SUGESTÕES ENTRE EM CONTATO NO E-MAIL ABAIXO.
 SILVAKTE@GMAIL.COM
+
+#EXTM3U
+
 
 #PLAYLISTV: pltv-logo="http://s28.postimg.org/66yw0liml/21312sasdas.png"
 
