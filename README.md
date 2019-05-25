@@ -2606,6 +2606,9 @@ http://stmv2.srvstm.com:1935/tvestudiobrasil/tvestudiobrasil/playlist.m3u8?PEDRO
 
 ################################################################################# Filmes Dublado
 
+#EXTINF:-1  group-title="Filmes Dublado"  tvg-logo=" ",Os Vingadores Ultimato
+http://s1.ultracinefilmes.com/vingadoresultimatodub.mp4
+
 #EXTINF:-1  group-title="Filmes Dublado"  tvg-logo="http://images-br-am.crackle.com/1/3/v6/z1zlf_tnl_210x118.jpg?ts=20140530223429",O Ritual (2012)
 http://media-br-am.crackle.com/1/3/v6/z1zlf_480p.mp4
 #EXTINF:-1  group-title="Filmes Dublado"  tvg-logo="http://images-br-am.crackle.com/1/y/n6/ty2lf_tnl_210x118.jpg?ts=20150325000851",Menina Ma.com
