@@ -2252,6 +2252,10 @@ http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/5jMqNpW.png" group-title="Esportes",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?PEDROJUNIORTUTORIAIS
 
+################################################################################# Shows
+#EXTINF:-1 tvg-id="" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Lenine_Tom_Brasil_%2840665660210%29.jpg/640px-Lenine_Tom_Brasil_%2840665660210%29.jpg” group-title="Shows",Lenine
+https://youtu.be/IbmmuX2ecHE?list=PL7EC103CF20E13083
+
 
 ################################################################################# Infantil
 
