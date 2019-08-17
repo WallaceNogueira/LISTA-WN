@@ -13,52 +13,6 @@ WALLACE LISTA
 
 #PLAYLISTV: pltv-logo="http://s28.postimg.org/66yw0liml/21312sasdas.png"
 
-################################################################################# Canais
-
-#EXTINF:-1,A&E
-http://painel.iptvmove.com:25461/live/isaque24/lucila25/1354.ts
-#EXTINF:-1,ALL Sports HD
-http://painel.iptvmove.com:25461/live/isaque24/lucila25/1215.ts
-#EXTINF:-1,AMC
-
-#EXTINF:-1,AMC HD
-
-#EXTINF:-1,Animal Planet
-https://assistirtvonline.xyz:25463/live/Quarta/CopaDoBrasil/101.m3u8
-#EXTINF:-1,Animal Planet HD
-
-#EXTINF:-1,Anime TV
-http://painel.iptvmove.com:25461/live/isaque24/lucila25/1124.ts
-#EXTINF:-1,Aparecida
-http://painel.iptvmove.com:25461/live/isaque24/lucila25/1352.ts
-#EXTINF:-1,Aparecida HD
-http://painel.iptvmove.com:25461/live/isaque24/lucila25/4967.ts
-#EXTINF:-1,Aljazeera
-http://painel.iptvmove.com:25461/live/isaque24/lucila25/2147.ts
-#EXTINF:-1,Amazon Sat
-http://painel.iptvmove.com:25461/live/isaque24/lucila25/1943.ts
-#EXTINF:-1,Arte 1
-http://painel.iptvmove.com:25461/live/isaque24/lucila25/1351.ts
-#EXTINF:-1,AXN
-http://painel.iptvmove.com:25461/live/isaque24/lucila25/1350.ts
-#EXTINF:-1,AXN HD
-http://painel.iptvmove.com:25461/live/isaque24/lucila25/1418.ts
-#EXTINF:-1,Band
-http://painel.iptvmove.com:25461/live/isaque24/lucila25/1347.ts
-#EXTINF:-1,Band HD
-http://painel.iptvmove.com:25461/live/isaque24/lucila25/1417.ts
-#EXTINF:-1,Band HD [Alter]
-http://painel.iptvmove.com:25461/live/isaque24/lucila25/3127.ts
-#EXTINF:-1,Band News
-http://painel.iptvmove.com:25461/live/isaque24/lucila25/1349.ts
-#EXTINF:-1,Band Sports
-http://painel.iptvmove.com:25461/live/isaque24/lucila25/1348.ts
-#EXTINF:-1,Band Sports HD
-http://painel.iptvmove.com:25461/live/isaque24/lucila25/1416.ts
-#EXTINF:-1,Baby TV
-http://painel.iptvmove.com:25461/live/isaque24/lucila25/1333.ts
-#EXTINF:-1,BIS
-http://painel.iptvmove.com:25461/live/isaque24/lucila25/1345.ts
 #EXTINF:-1,BIS HD# LISTA-WL
 WALLACE LISTA
 
